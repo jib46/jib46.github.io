@@ -101,27 +101,17 @@ h2, h3, h4
   border-top: 300px solid white;
   border-right: 3000px solid transparent;
 }
-.imgnewsletter1
+.imgnewsletter
 {
-height: 120px;
+  height: 150px;
+  width: 150px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
-.imgnewsletter2
+
+.newsletterA
 {
-height: 120px;
-}
-.imgnewsletter3
-{
-height: 120px;
-}
-.flotte1 
-{
-float:right;
-}
-.flotte2
-{
-float:right;
-}
-.flotte3 
-{
-float:right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
