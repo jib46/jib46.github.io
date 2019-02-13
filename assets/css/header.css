@@ -1,0 +1,71 @@
+.header-wrapper
+{
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	align-items: center;
+	border-bottom: 2px solid #77878b;
+}
+
+.header-container
+{
+	background-color: #e3e3D1;
+	height: 100px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 1.5px solid #77878b;
+}
+
+.menu
+{
+flex: auto;
+}
+
+.titres 
+{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.logo
+{
+	height: 180px;
+	cursor: pointer;
+}
+
+.header-links
+{
+	list-style: none;
+	display: inline;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+/*	padding: 200px;*/
+	background-color: transparent;
+}
+
+a:visited, a:link, a:active
+{
+	color:#77878b;
+}
+
+a:hover
+{
+	color: #9cd6d4}
+
+	::-webkit-scrollbar{
+	width: 8px;
+}
+::-webkit-scrollbar-thumb{
+	border-radius: 10px;
+	background-color: #a6a6a6;
+	box-shadow: inset 0 0 6px rgba(0,0,0,.7);
+}
+::-webkit-scrollbar-track{
+	border-radius: 10px;
+	background-color: white;
+	box-shadow: inset 0 0 6px rgba(0,0,0,.3) ;
+}
