@@ -57,6 +57,12 @@ a:hover
 	color: #9cd6d4 !important;
 }
 
+
+.imgtitle
+{
+	width: 200px;
+}
+
 ::-webkit-scrollbar{
 	width: 8px;
 }
