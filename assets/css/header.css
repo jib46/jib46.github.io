@@ -49,14 +49,15 @@ flex: auto;
 
 a:visited, a:link, a:active
 {
-	color:#77878b;
+	color: #77878b;
 }
 
 a:hover
 {
-	color: #9cd6d4}
+	color: #9cd6d4 !important;
+}
 
-	::-webkit-scrollbar{
+::-webkit-scrollbar{
 	width: 8px;
 }
 ::-webkit-scrollbar-thumb{
