@@ -76,9 +76,9 @@ input[type="submit"] {
 }
 
 .pub{
-	position: relative;  
-	color: black; 
-	font-size: x-large; 
+	position: relative;
+	color: black;
+	font-size: x-large;
 	font-weight: bold;
 	text-align: center;
 }
@@ -98,7 +98,7 @@ input[type="submit"]:hover {
 	justify-content: space-between;
 	margin: 60px;
 	align-items: center;
-} 
+}
 
 .card-appart-text {
 	padding: 15px;
@@ -130,4 +130,8 @@ a:visited, a:link, a:active, a:hover
 
 .fa-envelope:hover {
 	color: #9cd6d4;
+}
+
+.card {
+  background: #E3E3D1 !important;
 }
