@@ -1,8 +1,25 @@
 .resultatsnom {
 	text-align: center;
 	color: white !important;
+  text-shadow: 2px 2px 10px grey;
 }
 .resultatsdesc{
 	text-align: center;
 	color: black;
+  margin-top: 15px;
+}
+
+.article-card {
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: #D8D8D8;
+  margin: 30px 60px;
+  padding: 30px;
+  box-shadow: 5px 5px 10px grey;
+  text-align: center;
+
+}
+
+.article-card > i {
+  color: orange;
 }
