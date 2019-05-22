@@ -120,3 +120,15 @@ h2, h3, h4
 {
   border-radius: 5px;
 }
+.fa-map-marker-alt:before
+{
+border-right: 10px;
+}
+.fa-envelope:before
+{
+border-right: 10px;
+}
+.fa-phone:before
+{
+border-right: 10px;
+}
