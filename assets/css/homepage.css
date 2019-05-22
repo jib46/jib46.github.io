@@ -115,3 +115,8 @@ h2, h3, h4
   justify-content: center;
   align-items: center;
 }
+
+#mc_embed_signup
+{
+  border-radius: 5px;
+}
